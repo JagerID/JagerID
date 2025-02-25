@@ -82,6 +82,17 @@
 
 ---
 
+### Learning
+
+<a href="https://www.opengl.org/">
+  <img src="./assets/icons/vscode.svg" title="OpenGL" width="48" height="48" />
+</a>
+<a href="https://www.khronos.org/webgl/">
+  <img src="./assets/icons/webgl.svg" title="WebGL" width="48"  height="48" />
+</a>
+
+---
+
 ### CodeWars
 
 <img src="https://www.codewars.com/users/zzZJagerZzz/badges/large" />
