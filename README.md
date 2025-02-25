@@ -1,19 +1,5 @@
 # **_Hi there_** 👋
 
-### Social Medias
-
-<a href="https://discord.com/channels/861886316475318282">
-  <img alt="Discord" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
-</a>
-<a href="https://t.me/JagerID">
-  <img alt="Telegram" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
-</a>
-<a href="https://github.com/zzZJagerZzz">
-  <img alt="GitHub" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
-</a>
-
----
-
 ### Languages / Frameworks / etc
 
 <div>
@@ -44,6 +30,9 @@
 <a href="https://tanstack.com/query/v5/">
   <img src="./assets/icons/react-query.svg" title="TanStack Query" width="48" height="48"/>
 </a>
+<a href="https://zustand-demo.pmnd.rs/">
+  <img src="./assets/icons/zustand.svg" title="Zustand" width="48" height="48"/>
+</a>
 
 <br />
 
@@ -68,6 +57,9 @@
 ### Tools
 
 <div>
+<a href="https://neovim.io/">
+  <img src="./assets/icons/nvim.svg" title="NeoVim" width="48" height="48" />
+</a>
 <a href="https://code.visualstudio.com/">
   <img src="./assets/icons/vscode.svg" title="VsCode" width="48" height="48" />
 </a>
