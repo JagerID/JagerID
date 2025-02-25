@@ -21,6 +21,9 @@
 <a href="https://next.vuetifyjs.com/en/getting-started/installation/">
   <img src="./assets/icons/vuetifyjs.svg" title="Vuetify" width="48" height="48" />
 </a>
+
+<br />
+
 <a href="https://reactjs.org/">
   <img src="./assets/icons/react.svg" title="React" width="48" height="48" />
 </a>
@@ -32,6 +35,15 @@
 </a>
 <a href="https://zustand-demo.pmnd.rs/">
   <img src="./assets/icons/zustand.svg" title="Zustand" width="48" height="48"/>
+</a>
+
+<br />
+
+<a href="https://svelte.dev/">
+  <img src="./assets/icons/svelte.svg" title="Svelte" width="48" height="48"/>
+</a>
+<a href="https://threejs.org/">
+  <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
 </a>
 
 <br />
@@ -65,19 +77,6 @@
 </a>
 <a href="https://www.jetbrains.com/">
   <img src="./assets/icons/jetbrains.svg" title="JetBrains" width="48"  height="48" />
-</a>
-</div>
-
----
-
-### Learning
-
-<div>
-<a href="https://svelte.dev/">
-  <img src="./assets/icons/svelte.svg" title="Svelte" width="48" height="48"/>
-</a>
-<a href="https://threejs.org/">
-  <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
 </a>
 </div>
 
